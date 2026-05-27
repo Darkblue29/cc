@@ -1,0 +1,1088 @@
+[01:38:59] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:38:59] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:38:59] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:38:59] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[01:38:59] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_482, running on Linux:amd64:6.8.0-1044-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[01:38:59] [main/INFO] [FML]: Searching /workspaces/cc/servidor_minecraft/./mods for mods
+[01:38:59] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in !!!CrashAssistant-forge-1.12.2-1.11.9.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:38:59] [main/WARN] [FML]: The coremod CrashAssistantEntrypoint (dev.kostromdan.mods.crash_assistant.forge_coremod.CrashAssistantEntrypoint) is not signed!
+[01:38:59] [main/WARN] [CrashAssistantJarInJarHelper]: launchTarget: server. Crash Assistant is client only mod. Mod will do nothing!
+[01:38:59] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from !mixinbooter-10.7.jar
+[01:38:59] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from [1.12.2] SecurityCraft v1.10.1.jar
+[01:38:59] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in entityculling-1.12.2-1.6.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:38:59] [main/WARN] [FML]: The coremod dev.tr7zw.entityculling.EntityCullingEarlyLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[01:38:59] [main/WARN] [FML]: The coremod EntityCullingEarlyLoader (dev.tr7zw.entityculling.EntityCullingEarlyLoader) is not signed!
+[01:38:59] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:38:59] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[01:38:59] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
+[01:38:59] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Future-MC-0.2.21.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:38:59] [main/WARN] [FML]: The coremod FutureMC (thedarkcolour.futuremc.asm.CoreLoader) is not signed!
+[01:38:59] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Galacticraft-1.12.2-4.0.7.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:38:59] [main/WARN] [FML]: The coremod MicdoodlePlugin (micdoodle8.mods.miccore.MicdoodlePlugin) is not signed!
+[01:38:59] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in iceandfire-1.9.1-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:38:59] [main/WARN] [FML]: The coremod iceandfire (com.github.alexthe666.iceandfire.asm.IceAndFirePlugin) is not signed!
+[01:38:59] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in moreplanets-mc1.12.2-v2.4.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:38:59] [main/WARN] [FML]: The coremod MorePlanets Core (com.stevekung.moreplanets.core.MorePlanetsPlugin) is not signed!
+[01:38:59] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Quark-r1.6-179.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:38:59] [main/WARN] [FML]: The coremod Quark Plugin (vazkii.quark.base.asm.LoadingPlugin) is not signed!
+[01:38:59] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in RoughlyEnoughIDs-2.3.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:38:59] [main/WARN] [FML]: The coremod JustEnoughIDs Extension Plugin (org.dimdev.jeid.core.JEIDLoadingPlugin) is not signed!
+[01:38:59] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in stevekung-lib-mc1.12.2-v1.4.0.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:38:59] [main/WARN] [FML]: The coremod SteveKunGLib Core (com.stevekung.lib.core.SteveKunGLibPlugin) is not signed!
+[01:38:59] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from WolfArmorAndStorage-1.12.2-3.8.0-universal-signed.jar
+[01:38:59] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:38:59] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[01:38:59] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/cc/servidor_minecraft/./mods/!mixinbooter-10.7.jar Service=LaunchWrapper Env=SERVER
+[01:38:59] [main/WARN] [FML]: The coremod zone.rong.mixinbooter.MixinBooterPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[01:38:59] [main/WARN] [FML]: The coremod MixinBooter (zone.rong.mixinbooter.MixinBooterPlugin) is not signed!
+[01:38:59] [main/INFO] [MixinBooter]: Initializing Mixins...
+[01:38:59] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[01:38:59] [main/INFO] [MixinBooter]: Initializing MixinExtras...
+[01:39:00] [main/INFO] [MixinBooter]: Gathering present mods...
+[01:39:00] [main/INFO] [MixinBooter]: Finished gathering 11 coremods...
+[01:39:00] [main/WARN] [FML]: The coremod SecurityCraftLoadingPlugin (net.geforcemods.securitycraft.SecurityCraftLoadingPlugin) is not signed!
+[01:39:00] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[01:39:00] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[01:39:00] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[01:39:00] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:39:00] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:39:00] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:39:01] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[01:39:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:39:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:39:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:39:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:39:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:39:01] [main/INFO] [MicdoodleCore]: Successfully Registered Transformer
+[01:39:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:39:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:39:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:39:02] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[01:39:02] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@c808207
+[01:39:02] [main/INFO] [MixinBooter]: Loading early loader dev.tr7zw.entityculling.EntityCullingEarlyLoader for its mixins.
+[01:39:02] [main/INFO] [MixinBooter]: Adding [entityculling.mixins.json] mixin configuration.
+[01:39:02] [main/INFO] [MixinBooter]: Loading early loader com.stevekung.moreplanets.core.MorePlanetsPlugin for its mixins.
+[01:39:02] [main/INFO] [MixinBooter]: Adding [mixins.more_planets.json] mixin configuration.
+[01:39:02] [main/INFO] [MixinBooter]: Loading early loader org.dimdev.jeid.core.JEIDLoadingPlugin for its mixins.
+[01:39:02] [main/INFO] [MixinBooter]: Adding [mixins.jeid.core.json] mixin configuration.
+[01:39:02] [main/INFO] [MixinBooter]: Loading early loader com.stevekung.lib.core.SteveKunGLibPlugin for its mixins.
+[01:39:02] [main/INFO] [MixinBooter]: Adding [mixins.stevekung_lib.json] mixin configuration.
+[01:39:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[01:39:02] [main/INFO] [RoughlyEnoughIDs]: Adding class net.minecraft.item.ItemStack to the transformation queue
+[01:39:02] [main/INFO] [RoughlyEnoughIDs]: Adding class net.minecraft.potion.PotionEffect to the transformation queue
+[01:39:02] [main/INFO] [RoughlyEnoughIDs]: Adding class net.minecraft.world.gen.ChunkProviderServer to the transformation queue
+[01:39:02] [main/INFO] [RoughlyEnoughIDs]: Adding class pregenerator.impl.processor.generator.ChunkHelper to the transformation queue
+[01:39:02] [main/INFO] [RoughlyEnoughIDs]: Adding class zmaster587.advancedRocketry.util.BiomeHandler to the transformation queue
+[01:39:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:39:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:39:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:39:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:39:02] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[01:39:02] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[01:39:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[01:39:02] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[01:39:02] [main/INFO] [com.stevekung.moreplanets.core.MPMixinConfigPlugin]: Magma Server not detected!
+[01:39:03] [main/WARN] [LLibrary Core]: Failed to fetch hierarchy node for net.minecraft.util.text.TextComponentTranslation. This may cause patch issues
+[01:39:03] [main/WARN] [LLibrary Core]: Failed to fetch hierarchy node for net.minecraft.util.math.BlockPos. This may cause patch issues
+[01:39:03] [main/WARN] [LLibrary Core]: Failed to fetch hierarchy node for net.minecraft.tileentity.CommandBlockBaseLogic. This may cause patch issues
+[01:39:03] [main/WARN] [LLibrary Core]: Failed to fetch hierarchy node for net.minecraft.item.ItemStack. This may cause patch issues
+[01:39:03] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.Entity
+[01:39:03] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [move, func_70091_d] Descriptor (Lnet/minecraft/entity/MoverType;DDD)V)
+[01:39:03] [main/INFO] [Quark ASM]: Located Method, patching...
+[01:39:03] [main/INFO] [Quark ASM]: Patch result: true
+[01:39:03] [main/INFO] [Quark ASM]: Located Method, patching...
+[01:39:03] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/Entity.func_145775_I ()V
+[01:39:03] [main/INFO] [Quark ASM]: Patch result: true
+[01:39:03] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [onEntityUpdate, func_70030_z] Descriptor ()V)
+[01:39:03] [main/INFO] [Quark ASM]: Located Method, patching...
+[01:39:03] [main/INFO] [Quark ASM]: Patch result: true
+[01:39:03] [main/INFO] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: A re-entrant transformer '$wrapper.thedarkcolour.futuremc.asm.CoreTransformer' was detected and will no longer process meta class data
+[01:39:03] [main/INFO] [Quark ASM]: Transforming net.minecraft.enchantment.EnchantmentHelper
+[01:39:03] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [getEnchantments, func_82781_a] Descriptor (Lnet/minecraft/item/ItemStack;)Ljava/util/Map;)
+[01:39:03] [main/INFO] [Quark ASM]: Located Method, patching...
+[01:39:03] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/item/ItemStack.func_77986_q ()Lnet/minecraft/nbt/NBTTagList;
+[01:39:03] [main/INFO] [Quark ASM]: Patch result: true
+[01:39:03] [main/INFO] [Quark ASM]: Transforming net.minecraft.world.WorldServer
+[01:39:03] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [areAllPlayersAsleep, func_73056_e] Descriptor ()Z)
+[01:39:03] [main/INFO] [Quark ASM]: Located Method, patching...
+[01:39:03] [main/INFO] [Quark ASM]: Patch result: true
+[01:39:03] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [wakeAllPlayers, func_73053_d] Descriptor ()V)
+[01:39:03] [main/INFO] [Quark ASM]: Located Method, patching...
+[01:39:03] [main/INFO] [Quark ASM]: Patch result: true
+[01:39:03] [main/INFO] [MixinExtras|Service]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[01:39:04] [main/INFO] [Quark ASM]: Transforming net.minecraft.world.WorldServer
+[01:39:04] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [areAllPlayersAsleep, func_73056_e] Descriptor ()Z)
+[01:39:04] [main/INFO] [Quark ASM]: Located Method, patching...
+[01:39:04] [main/INFO] [Quark ASM]: Patch result: true
+[01:39:04] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [wakeAllPlayers, func_73053_d] Descriptor ()V)
+[01:39:04] [main/INFO] [Quark ASM]: Located Method, patching...
+[01:39:04] [main/INFO] [Quark ASM]: Patch result: true
+[01:39:04] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.Entity
+[01:39:04] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [move, func_70091_d] Descriptor (Lnet/minecraft/entity/MoverType;DDD)V)
+[01:39:04] [main/INFO] [Quark ASM]: Located Method, patching...
+[01:39:04] [main/INFO] [Quark ASM]: Patch result: true
+[01:39:04] [main/INFO] [Quark ASM]: Located Method, patching...
+[01:39:04] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/Entity.func_145775_I ()V
+[01:39:04] [main/INFO] [Quark ASM]: Patch result: true
+[01:39:04] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [onEntityUpdate, func_70030_z] Descriptor ()V)
+[01:39:04] [main/INFO] [Quark ASM]: Located Method, patching...
+[01:39:04] [main/INFO] [Quark ASM]: Patch result: true
+[01:39:04] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[01:39:04] [main/INFO] [Quark ASM]: Transforming net.minecraft.enchantment.Enchantment
+[01:39:04] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [canApply, func_92089_a] Descriptor (Lnet/minecraft/item/ItemStack;)Z)
+[01:39:04] [main/INFO] [Quark ASM]: Located Method, patching...
+[01:39:04] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[01:39:04] [main/INFO] [Quark ASM]: Patch result: true
+[01:39:05] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.item.EntityItem
+[01:39:05] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [onUpdate, func_70071_h_] Descriptor ()V)
+[01:39:05] [main/INFO] [Quark ASM]: Located Method, patching...
+[01:39:05] [main/INFO] [Quark ASM]: Patch result: true
+[01:39:05] [main/INFO] [Quark ASM]: Transforming net.minecraft.item.ItemStack
+[01:39:05] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [getTextComponent, func_151000_E] Descriptor ()Lnet/minecraft/util/text/ITextComponent;)
+[01:39:05] [main/INFO] [Quark ASM]: Located Method, patching...
+[01:39:05] [main/INFO] [Quark ASM]: Located patch target node ARETURN
+[01:39:05] [main/INFO] [Quark ASM]: Patch result: true
+[01:39:05] [main/INFO] [Quark ASM]: Transforming net.minecraft.block.BlockDynamicLiquid
+[01:39:05] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [isBlocked, func_176372_g] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z)
+[01:39:05] [main/INFO] [Quark ASM]: Located Method, patching...
+[01:39:05] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[01:39:05] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[01:39:05] [main/INFO] [Quark ASM]: Patch result: true
+[01:39:05] [main/INFO] [Quark ASM]: Transforming net.minecraft.block.BlockPistonBase
+[01:39:05] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [canPush, func_185646_a] Descriptor (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;ZLnet/minecraft/util/EnumFacing;)Z)
+[01:39:05] [main/INFO] [Quark ASM]: Located Method, patching...
+[01:39:05] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/block/Block.hasTileEntity (Lnet/minecraft/block/state/IBlockState;)Z
+[01:39:05] [main/INFO] [Quark ASM]: Patch result: true
+[01:39:05] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [doMove, func_176319_a] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)Z)
+[01:39:05] [main/INFO] [Quark ASM]: Located Method, patching...
+[01:39:05] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/block/state/BlockPistonStructureHelper.func_177254_c ()Ljava/util/List;
+[01:39:05] [main/INFO] [Quark ASM]: Patch result: true
+[01:39:05] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [doMove, func_176319_a] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)Z)
+[01:39:05] [main/INFO] [Quark ASM]: Located Method, patching...
+[01:39:05] [main/INFO] [Quark ASM]: Located patch target node INVOKESPECIAL net/minecraft/block/state/BlockPistonStructureHelper.<init> (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)V
+[01:39:05] [main/INFO] [Quark ASM]: Patch result: true
+[01:39:05] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [checkForMove, func_176316_e] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)V)
+[01:39:05] [main/INFO] [Quark ASM]: Located Method, patching...
+[01:39:05] [main/INFO] [Quark ASM]: Located patch target node INVOKESPECIAL net/minecraft/block/state/BlockPistonStructureHelper.<init> (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)V
+[01:39:05] [main/INFO] [Quark ASM]: Patch result: true
+[01:39:05] [main/INFO] [Quark ASM]: Transforming net.minecraft.tileentity.TileEntityPiston
+[01:39:05] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [update, func_73660_a] Descriptor ()V)
+[01:39:05] [main/INFO] [Quark ASM]: Located Method, patching...
+[01:39:05] [main/INFO] [Quark ASM]: Patch result: true
+[01:39:05] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [clearPistonTileEntity, func_145866_f] Descriptor ()V)
+[01:39:05] [main/INFO] [Quark ASM]: Located Method, patching...
+[01:39:05] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/world/World.func_180501_a (Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Z
+[01:39:05] [main/INFO] [Quark ASM]: Patch result: true
+[01:39:05] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [update, func_73660_a] Descriptor ()V)
+[01:39:05] [main/INFO] [Quark ASM]: Located Method, patching...
+[01:39:05] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/world/World.func_180501_a (Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Z
+[01:39:05] [main/INFO] [Quark ASM]: Patch result: true
+[01:39:06] [main/INFO] [Quark ASM]: Transforming net.minecraft.enchantment.EnchantmentDamage
+[01:39:06] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [canApply, func_92089_a] Descriptor (Lnet/minecraft/item/ItemStack;)Z)
+[01:39:06] [main/INFO] [Quark ASM]: Located Method, patching...
+[01:39:06] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[01:39:06] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[01:39:06] [main/INFO] [Quark ASM]: Patch result: true
+[01:39:06] [main/INFO] [Quark ASM]: Transforming net.minecraft.item.ItemStack
+[01:39:06] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [getTextComponent, func_151000_E] Descriptor ()Lnet/minecraft/util/text/ITextComponent;)
+[01:39:06] [main/INFO] [Quark ASM]: Located Method, patching...
+[01:39:06] [main/INFO] [Quark ASM]: Located patch target node ARETURN
+[01:39:06] [main/INFO] [Quark ASM]: Patch result: true
+[01:39:06] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.item.EntityMinecart
+[01:39:06] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [killMinecart, func_94095_a] Descriptor (Lnet/minecraft/util/DamageSource;)V)
+[01:39:06] [main/INFO] [Quark ASM]: Located Method, patching...
+[01:39:06] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/item/EntityMinecart.func_70099_a (Lnet/minecraft/item/ItemStack;F)Lnet/minecraft/entity/item/EntityItem;
+[01:39:06] [main/INFO] [Quark ASM]: Patch result: true
+[01:39:06] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.item.EntityBoat
+[01:39:06] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [attackEntityFrom, func_70097_a] Descriptor (Lnet/minecraft/util/DamageSource;F)Z)
+[01:39:06] [main/INFO] [Quark ASM]: Located Method, patching...
+[01:39:06] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/item/EntityBoat.func_145778_a (Lnet/minecraft/item/Item;IF)Lnet/minecraft/entity/item/EntityItem;
+[01:39:06] [main/INFO] [Quark ASM]: Patch result: true
+[01:39:07] [main/INFO] [Quark ASM]: Transforming net.minecraft.enchantment.Enchantment
+[01:39:07] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [canApply, func_92089_a] Descriptor (Lnet/minecraft/item/ItemStack;)Z)
+[01:39:07] [main/INFO] [Quark ASM]: Located Method, patching...
+[01:39:07] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[01:39:07] [main/INFO] [Quark ASM]: Patch result: true
+[01:39:07] [main/INFO] [Quark ASM]: Transforming net.minecraft.item.ItemBanner
+[01:39:07] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [appendHoverTextFromTileEntityTag, func_185054_a] Descriptor (Lnet/minecraft/item/ItemStack;Ljava/util/List;)V)
+[01:39:07] [main/INFO] [Quark ASM]: Failed to locate the method!
+[01:39:07] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.ai.EntityAITarget
+[01:39:07] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [isSuitableTarget, func_179445_a] Descriptor (Lnet/minecraft/entity/EntityLiving;Lnet/minecraft/entity/EntityLivingBase;ZZ)Z)
+[01:39:07] [main/INFO] [Quark ASM]: Located Method, patching...
+[01:39:07] [main/INFO] [Quark ASM]: Patch result: true
+[01:39:08] [main/INFO] [Quark ASM]: Transforming net.minecraft.util.DamageSource
+[01:39:08] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [causePlayerDamage, func_76365_a] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;)Lnet/minecraft/util/DamageSource;)
+[01:39:08] [main/INFO] [Quark ASM]: Located Method, patching...
+[01:39:08] [main/INFO] [Quark ASM]: Patch result: true
+[01:39:08] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.item.EntityItem
+[01:39:08] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [onUpdate, func_70071_h_] Descriptor ()V)
+[01:39:08] [main/INFO] [Quark ASM]: Located Method, patching...
+[01:39:08] [main/INFO] [Quark ASM]: Patch result: true
+[01:39:08] [main/INFO] [Quark ASM]: Transforming net.minecraft.item.crafting.RecipesBanners$RecipeAddPattern
+[01:39:08] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [matches, func_77569_a] Descriptor (Lnet/minecraft/inventory/InventoryCrafting;Lnet/minecraft/world/World;)Z)
+[01:39:08] [main/INFO] [Quark ASM]: Located Method, patching...
+[01:39:08] [main/INFO] [Quark ASM]: Located patch target node INVOKESTATIC net/minecraft/tileentity/TileEntityBanner.func_175113_c (Lnet/minecraft/item/ItemStack;)I
+[01:39:08] [main/INFO] [Quark ASM]: Patch result: true
+[01:39:09] [main/INFO] [Quark ASM]: Transforming net.minecraft.inventory.ContainerMerchant
+[01:39:09] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [transferStackInSlot, func_82846_b] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;I)Lnet/minecraft/item/ItemStack;)
+[01:39:09] [main/INFO] [Quark ASM]: Located Method, patching...
+[01:39:09] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerMerchant.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[01:39:09] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerMerchant.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[01:39:09] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerMerchant.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[01:39:09] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerMerchant.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[01:39:09] [main/INFO] [Quark ASM]: Patch result: true
+[01:39:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[01:39:09] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[01:39:09] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[01:39:10] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[01:39:10] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[01:39:10] [Server thread/INFO] [MixinBooter]: Initializing MixinBooter's Mod Container.
+[01:39:10] [Server thread/INFO] [FML]: Searching /workspaces/cc/servidor_minecraft/./mods for mods
+[01:39:11] [Server thread/WARN] [FML]: Mod crash_assistant is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.11.9
+[01:39:11] [Server thread/WARN] [FML]: Mod securitycraft is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version v1.10.1
+[01:39:11] [Server thread/WARN] [FML]: Mod codechickenlib is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 3.2.3.358
+[01:39:12] [Server thread/INFO] [FML]: Disabling mod controlling it is client side only.
+[01:39:12] [Server thread/INFO] [FML]: Disabling mod entityculling it is client side only.
+[01:39:13] [Server thread/WARN] [FML]: Mod mobends is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.2
+[01:39:13] [Server thread/INFO] [FML]: Disabling mod ptrmodellib it is client side only.
+[01:39:13] [Server thread/WARN] [FML]: Mod waystones is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.1.0
+[01:39:13] [Server thread/INFO] [FML]: Forge Mod Loader has identified 51 mods to load
+[01:39:13] [Server thread/INFO] [FML]: Found mod(s) [futuremc] containing declared API package vazkii.quark.api (owned by quark) without associated API reference
+[01:39:13] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[01:39:13] [Server thread/WARN] [FML]: Missing English translation for crash_assistant: assets/crash_assistant/lang/en_us.lang
+[01:39:13] [Server thread/WARN] [FML]: Missing English translation for aiimprovements: assets/aiimprovements/lang/en_us.lang
+[01:39:13] [Server thread/WARN] [FML]: Missing English translation for bettercaves: assets/bettercaves/lang/en_us.lang
+[01:39:13] [Server thread/WARN] [FML]: Missing English translation for codechickenlib: assets/codechickenlib/lang/en_us.lang
+[01:39:13] [Server thread/WARN] [FML]: Missing English translation for forgelin: assets/forgelin/lang/en_us.lang
+[01:39:13] [Server thread/WARN] [FML]: Missing English translation for mantle: assets/mantle/lang/en_us.lang
+[01:39:14] [Server thread/WARN] [FML]: Missing English translation for redstoneflux: assets/redstoneflux/lang/en_us.lang
+[01:39:14] [Server thread/WARN] [FML]: Missing English translation for stevekung_lib: assets/stevekung_lib/lang/en_us.lang
+[01:39:14] [Server thread/INFO] [FML]: FML has found a non-mod file Controlling-3.0.12.2.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[01:39:14] [Server thread/INFO] [FML]: FML has found a non-mod file entityculling-1.12.2-1.6.3.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[01:39:14] [Server thread/INFO] [FML]: FML has found a non-mod file PTRLib-1.0.5.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[01:39:14] [Server thread/INFO] [MixinBooter]: Loading late loader [org.dimdev.jeid.core.JEIDMixinLoader] for its mixins.
+[01:39:14] [Server thread/INFO] [MixinBooter]: Loading late loader [com.stevekung.moreplanets.core.GCMixinLoader] for its mixins.
+[01:39:14] [Server thread/INFO] [MixinBooter]: Adding [mixins.more_planets_gc.json] mixin configuration.
+[01:39:14] [Server thread/INFO] [MixinBooter]: Adding [mixins.more_planets_gs.json] mixin configuration.
+[01:39:14] [Server thread/INFO] [MixinBooter]: Adding [mixins.jeid.biomesoplenty.json] mixin configuration.
+[01:39:14] [Server thread/INFO] [MixinBooter]: Adding [mixins.jeid.moreplanets.json] mixin configuration.
+[01:39:14] [Server thread/INFO] [MixinBooter]: Adding [mixins.jeid.naturescompass.json] mixin configuration.
+[01:39:14] [Server thread/INFO] [MixinBooter]: Adding [mixins.jeid.twilightforest.json] mixin configuration.
+[01:39:14] [Server thread/WARN] [mixin]: Error loading class: asmodeuscore/core/astronomy/dimension/world/worldengine/WE_WorldProviderSpace (java.lang.ClassNotFoundException: The specified class 'asmodeuscore.core.astronomy.dimension.world.worldengine.WE_WorldProviderSpace' was not found)
+[01:39:14] [Server thread/WARN] [mixin]: Error loading class: stevekung/mods/moreplanets/planets/fronos/world/gen/biome/layer/GenLayerFronosRiverMix (java.lang.ClassNotFoundException: The specified class 'stevekung.mods.moreplanets.planets.fronos.world.gen.biome.layer.GenLayerFronosRiverMix' was not found)
+[01:39:14] [Server thread/WARN] [mixin]: @Mixin target stevekung.mods.moreplanets.planets.fronos.world.gen.biome.layer.GenLayerFronosRiverMix was not found mixins.jeid.moreplanets.json:MixinGenLayerRiversMix from owner unknown-owner
+[01:39:14] [Server thread/WARN] [mixin]: Error loading class: stevekung/mods/moreplanets/planets/nibiru/world/gen/biome/layer/GenLayerNibiruRiverMix (java.lang.ClassNotFoundException: The specified class 'stevekung.mods.moreplanets.planets.nibiru.world.gen.biome.layer.GenLayerNibiruRiverMix' was not found)
+[01:39:14] [Server thread/WARN] [mixin]: @Mixin target stevekung.mods.moreplanets.planets.nibiru.world.gen.biome.layer.GenLayerNibiruRiverMix was not found mixins.jeid.moreplanets.json:MixinGenLayerRiversMix from owner unknown-owner
+[01:39:14] [Server thread/WARN] [mixin]: Error loading class: stevekung/mods/moreplanets/planets/chalos/world/gen/biome/layer/GenLayerSlimelyStreamMix (java.lang.ClassNotFoundException: The specified class 'stevekung.mods.moreplanets.planets.chalos.world.gen.biome.layer.GenLayerSlimelyStreamMix' was not found)
+[01:39:14] [Server thread/WARN] [mixin]: @Mixin target stevekung.mods.moreplanets.planets.chalos.world.gen.biome.layer.GenLayerSlimelyStreamMix was not found mixins.jeid.moreplanets.json:MixinGenLayerRiversMix from owner unknown-owner
+[01:39:15] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, mixinbooter, crash_assistant, securitycraft, aether_legacy_addon, aether_legacy, aiimprovements, autoreglib, bettercaves, betternether, biomesoplenty, byg, blue_skies, brandonscore, camera, codechickenlib, conarm, cucumber, props, divinerpg, draconicevolution, forgelin, futuremc, galacticraftplanets, galacticraftcore, gravestone, waila, iceandfire, mantle, mca, mobends, moreplanets, mowziesmobs, mysticalagradditions, mysticalagriculture, naturescompass, quark, redstoneflux, additionalstructures, jeid, stevekung_lib, tconstruct, travelersbackpack, twilightforest, waystones, wolfarmor, llibrary] at CLIENT
+[01:39:15] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, mixinbooter, crash_assistant, securitycraft, aether_legacy_addon, aether_legacy, aiimprovements, autoreglib, bettercaves, betternether, biomesoplenty, byg, blue_skies, brandonscore, camera, codechickenlib, conarm, cucumber, props, divinerpg, draconicevolution, forgelin, futuremc, galacticraftplanets, galacticraftcore, gravestone, waila, iceandfire, mantle, mca, mobends, moreplanets, mowziesmobs, mysticalagradditions, mysticalagriculture, naturescompass, quark, redstoneflux, additionalstructures, jeid, stevekung_lib, tconstruct, travelersbackpack, twilightforest, waystones, wolfarmor, llibrary] at SERVER
+[01:39:15] [Server thread/INFO] [Quark ASM]: Transforming net.minecraft.util.DamageSource
+[01:39:15] [Server thread/INFO] [Quark ASM]: Applying Transformation to method (Names [causePlayerDamage, func_76365_a] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;)Lnet/minecraft/util/DamageSource;)
+[01:39:15] [Server thread/INFO] [Quark ASM]: Located Method, patching...
+[01:39:15] [Server thread/INFO] [Quark ASM]: Patch result: true
+[01:39:16] [Server thread/ERROR] [FML]: The mod redstoneflux is expecting signature 8a6abf2cb9e141b866580d369ba6548732eff25f for source RedstoneFlux-1.12-2.1.1.1-universal.jar, however there is no signature matching that description
+[01:39:16] [Server thread/INFO] [brandonscore]: Brandon's Core online! Waiting for Draconic Evolution to join the party....
+[01:39:16] [Server thread/INFO] [draconicevolution]: Draconic Evolution online!
+[01:39:16] [Server thread/INFO] [brandonscore]: Hay! There you are! Now lets destroy some worlds!!
+[01:39:16] [Server thread/INFO] [draconicevolution]: Sounds like fun! Lets get to it!
+[01:39:16] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse chiselIntegration; missing dependency: chisel
+[01:39:17] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse chiselsandbitsIntegration; missing dependency: chiselsandbits
+[01:39:17] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse craftingtweaksIntegration; missing dependency: craftingtweaks
+[01:39:17] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse theoneprobeIntegration; missing dependency: theoneprobe
+[01:39:17] [Server thread/INFO] [tconstruct]: Preparing to take over the world
+[01:39:17] [Server thread/INFO] [draconicevolution]: Hello Minecraft!!!
+[01:39:19] [Server thread/INFO] [divinerpg.DivineRPG]: Creating registries
+[01:39:19] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[01:39:22] [Server thread/INFO] [FML]: Found 4146 ObjectHolder annotations
+[01:39:22] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[01:39:22] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[01:39:22] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[01:39:22] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[01:39:23] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Found status: UP_TO_DATE Target: null
+[01:39:23] [Forge Version Check/INFO] [forge.VersionCheck]: [codechickenlib] Starting version check at http://chickenbones.net/Files/notification/version.php?query=forge&version=1.12&file=CodeChickenLib
+[01:39:24] [Forge Version Check/INFO] [forge.VersionCheck]: [codechickenlib] Found status: BETA Target: null
+[01:39:24] [Forge Version Check/INFO] [forge.VersionCheck]: [stevekung_lib] Starting version check at https://raw.githubusercontent.com/SteveKunG/VersionCheckLibrary/master/stevekung's_lib_version.json
+[01:39:24] [Forge Version Check/INFO] [forge.VersionCheck]: [stevekung_lib] Found status: AHEAD Target: null
+[01:39:24] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[01:39:24] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Found status: AHEAD Target: null
+[01:39:24] [Forge Version Check/INFO] [forge.VersionCheck]: [llibrary] Starting version check at https://gist.githubusercontent.com/Gegy/a6639456aeb8edd92cbf7cbfcf9d65d9/raw/llibrary_updates.json
+[01:39:24] [Forge Version Check/INFO] [forge.VersionCheck]: [llibrary] Found status: UP_TO_DATE Target: null
+[01:39:24] [Forge Version Check/INFO] [forge.VersionCheck]: [camera] Starting version check at https://maxhenkel.de/update/camera.json
+[01:39:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `skyroot_crafting_table`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `skyroot_crafting_table`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `skyroot_chest`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `skyroot_chest`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `aetherion_chest`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `aetherion_chest`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `skyroot_ladder`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `skyroot_ladder`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `skyroot_standing_sign`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `skyroot_wall_sign`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `quicksoil_glass_pane`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `quicksoil_glass_pane`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `zanite_bars`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `zanite_bars`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `ambrosium_block`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `ambrosium_block`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `aether_lever`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `aether_lever`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `holystone_pressure_plate`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `holystone_pressure_plate`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `skyroot_pressure_plate`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `skyroot_pressure_plate`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `zanite_pressure_plate`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `zanite_pressure_plate`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `holystone_button`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `holystone_button`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `skyroot_button`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `skyroot_button`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `skyroot_trapdoor`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `skyroot_trapdoor`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `zanite_trapdoor`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `zanite_trapdoor`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `skyroot_door`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `zanite_door`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:25] [Server thread/INFO] [Quark]: Module world is enabled
+[01:39:25] [Server thread/INFO] [Quark]: Module decoration is enabled
+[01:39:25] [Server thread/INFO] [Quark]: Module building is enabled
+[01:39:25] [Server thread/INFO] [Quark]: Module management is enabled
+[01:39:25] [Server thread/INFO] [Quark]: Module vanity is enabled
+[01:39:25] [Server thread/INFO] [Quark]: Module misc is enabled
+[01:39:25] [Server thread/INFO] [Quark]: Module client is enabled
+[01:39:25] [Server thread/INFO] [Quark]: Module automation is enabled
+[01:39:25] [Server thread/INFO] [Quark]: Module tweaks is enabled
+[01:39:25] [Server thread/INFO] [Quark]: Module experimental is enabled
+[01:39:25] [Forge Version Check/INFO] [forge.VersionCheck]: [camera] Found status: UP_TO_DATE Target: null
+[01:39:25] [Forge Version Check/INFO] [forge.VersionCheck]: [moreplanets] Starting version check at https://raw.githubusercontent.com/SteveKunG/VersionCheckLibrary/master/more_planets_version.json
+[01:39:25] [Forge Version Check/INFO] [forge.VersionCheck]: [moreplanets] Found status: AHEAD Target: null
+[01:39:25] [Forge Version Check/INFO] [forge.VersionCheck]: [aether_legacy] Starting version check at https://raw.githubusercontent.com/Modding-Legacy/Aether-Legacy/master/aether-legacy-changelog.json
+[01:39:25] [Forge Version Check/INFO] [forge.VersionCheck]: [blue_skies] Starting version check at https://gist.github.com/Lachney/8d30590842dc01564259a78c3263297f/raw/blue-skies-changelog.json
+[01:39:25] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[01:39:25] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: OUTDATED Target: 14.23.5.2864
+[01:39:25] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Starting version check at https://raw.githubusercontent.com/TeamTwilight/twilightforest/1.12.x/update.json
+[01:39:25] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Found status: AHEAD Target: null
+[01:39:25] [Forge Version Check/INFO] [forge.VersionCheck]: [gravestone] Starting version check at http://maxhenkel.de/update/gravestone.json
+[01:39:25] [Forge Version Check/INFO] [forge.VersionCheck]: [divinerpg] Starting version check at https://raw.githubusercontent.com/DivineRPG/DivineRPG/1.12.2/divinerpg_update.json
+[01:39:25] [Forge Version Check/INFO] [forge.VersionCheck]: [divinerpg] Found status: UP_TO_DATE Target: null
+[01:39:31] [Server thread/INFO] [brandonscore]: Found mod feature container for mod: draconicevolution
+[01:39:31] [Server thread/INFO] [brandonscore]: Found mod config container for mod: brandonscore
+[01:39:31] [Server thread/INFO] [brandonscore]: Found mod config container for mod: draconicevolution
+[01:39:31] [Server thread/INFO] [brandonscore]: Found mod config container for mod: draconicevolution
+[01:39:31] [Server thread/INFO] [brandonscore]: Loading mod config for: draconicevolution
+[01:39:31] [Server thread/INFO] [brandonscore]: Loading mod config for: brandonscore
+[01:39:31] [Server thread/WARN] [brandonscore]: No features were detected for mod: brandonscore. This maybe an issue or maybe this mod just does not have any items or blocks.
+[01:39:31] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Baubles.
+[01:39:31] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Chisel.
+[01:39:31] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Forestry.
+[01:39:31] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Immersive Engineering.
+[01:39:31] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Just Enough Items.
+[01:39:31] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Tinkers' Construct.
+[01:39:31] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Thaumcraft.
+[01:39:31] [Server thread/INFO] [com.mia.craftstudio.CSPack]: Original locale was en, switching to Locale.US
+[01:39:31] [Server thread/INFO] [com.mia.craftstudio.CSPack]: Locale is now en_US
+[01:39:31] [Server thread/INFO] [com.mia.craftstudio.CSPack]: Locale was restored to en
+[01:39:40] [Server thread/INFO] [divinerpg]: Maximum mob health increased to Double.MAX_VALUE (1.7976931348623157e+308)
+[01:39:40] [Server thread/INFO] [brandonscore]: Registering features for mod: draconicevolution
+[01:39:40] [Server thread/INFO] [draconicevolution]: Finished PreInitialization
+[01:39:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lectern`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `podium`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `egginice`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pixie_house`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `jar`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `dread_portal`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `dread_spawner`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `dummygorgonheadidle`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `dummygorgonheadactive`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `myrmexcocoon`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `dragonforge`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `dragonforgeinput`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `dragonforgebrick`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:47] [Server thread/INFO] [Ice And Fire]: A raven flies from the north to the sea
+[01:39:47] [Server thread/INFO] [Ice And Fire]: A dragon whispers her name in the east
+[01:39:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `tconstruct` for name `splinter`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `tconstruct` for name `enderference`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `tconstruct` for name `insatiable`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `tconstruct` for name `magnetic`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `tconstruct` for name `momentum`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `tconstruct` for name `dot`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[01:39:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `tconstruct` for name `splinter`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:07] [Server thread/ERROR] [mca]: Failed to GET from: https://minecraftcomesalive.com/api/latest
+[01:40:26] [Server thread/ERROR] [mca]: Failed to GET from: https://minecraftcomesalive.com/api/supporters
+[01:40:26] [Server thread/INFO] [mca]: Loaded 1 supporters.
+[01:40:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ma.tinkering_table`, expected `mysticalagriculture`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:28] [Server thread/INFO] [STDOUT]: [xxrexraptorxx.additionalstructures.proxy.CommonProxy:preInit:34]: Mystcraft not found - integration not active
+[01:40:28] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectWater as a FluidEffect for water with the ID 0
+[01:40:28] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectLava as a FluidEffect for lava with the ID 1
+[01:40:28] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectMilk as a FluidEffect for milk with the ID 2
+[01:40:28] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectPotion as a FluidEffect for potion with the ID 3
+[01:40:28] [Server thread/INFO] [travelersbackpack]: Starting the Integration Handler.
+[01:40:28] [Server thread/INFO] [travelersbackpack]: Didn't find any possible mod integration(s)!
+[01:40:28] [Server thread/INFO] [wolfarmor]: Registered new provider SophisticatedWolvesProvider for mod sophisticatedwolves
+[01:40:28] [Server thread/INFO] [wolfarmor]: Registered new provider LetSleepingDogsLieProvider for mod dogslie
+[01:40:28] [Server thread/INFO] [wolfarmor]: Registered new provider WizardryProvider for mod ebwizardry
+[01:40:28] [Server thread/INFO] [wolfarmor]: Registered new provider MoBendsProvider for mod mobends
+[01:40:28] [Server thread/INFO] [wolfarmor]: Performing server-side compatibility preInit for mobends...
+[01:40:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.table`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.craftingstation`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.stenciltable`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.partbuilder`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.patternchest`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.partchest`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.toolstation`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.toolforge`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_controller`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_component`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.tank`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.faucet`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.channel`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.casting_table`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.casting_basin`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_drain`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.seared_furnace`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.tinker_tank`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.item_rack`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.drying_rack`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.wooden_hopper`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.slime_channel`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:29] [Server thread/INFO] [divinerpg]: Registering DivineRPG blocks
+[01:40:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitygavestone`, expected `gravestone`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:29] [Server thread/INFO] [FML]: Applying holder lookups
+[01:40:30] [Server thread/INFO] [FML]: Holder lookups applied
+[01:40:30] [Server thread/INFO] [divinerpg]: Registering DivineRPG items
+[01:40:30] [Server thread/INFO] [divinerpg]: Registering DivineRPG block items
+[01:40:30] [Server thread/INFO] [divinerpg]: Registering DivineRPG armor
+[01:40:30] [Server thread/INFO] [divinerpg]: Registering DivineRPG tools
+[01:40:30] [Server thread/INFO] [divinerpg]: Registering DivineRPG weapons
+[01:40:30] [Server thread/INFO] [GalacticraftCore]: Galacticraft: activating Tinker's Construct compatibility.
+[01:40:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `skyroot_door`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `zanite_door`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `skyroot_sign`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `cockatrice`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `burnt_cockatrice`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `enchanted_cockatrice`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `cooked_enchanted_cockatrice`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `aetherium_core`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:31] [Server thread/INFO] [FML]: Applying holder lookups
+[01:40:31] [Server thread/INFO] [FML]: Holder lookups applied
+[01:40:31] [Server thread/INFO] [divinerpg]: Registering armor descriptions
+[01:40:32] [Server thread/INFO] [More Planets]: Initialize sounds from class com.stevekung.moreplanets.init.MPSounds
+[01:40:32] [Server thread/INFO] [FML]: Applying holder lookups
+[01:40:32] [Server thread/INFO] [FML]: Holder lookups applied
+[01:40:32] [Server thread/INFO] [FML]: Applying holder lookups
+[01:40:32] [Server thread/INFO] [FML]: Holder lookups applied
+[01:40:32] [Server thread/INFO] [FML]: Injecting itemstacks
+[01:40:32] [Server thread/INFO] [FML]: Itemstack injection complete
+[01:40:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[01:40:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[01:40:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[01:40:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[01:40:32] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[01:40:32] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:40:32] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[01:40:32] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:40:32] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:40:33] [Server thread/ERROR] [FML]: Parsing error loading recipe byg:rsbpp
+com.google.gson.JsonSyntaxException: Unknown item 'byg:parrotegg'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:204) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$15(CraftingHelper.java:531) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_482]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_482]
+[01:40:33] [Server thread/ERROR] [FML]: Parsing error loading recipe byg:rgapp
+com.google.gson.JsonSyntaxException: Unknown item 'byg:parrotegg'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:204) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$15(CraftingHelper.java:531) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_482]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_482]
+[01:40:33] [Server thread/ERROR] [FML]: Parsing error loading recipe byg:rbbpp
+com.google.gson.JsonSyntaxException: Unknown item 'byg:parrotegg'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:204) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$15(CraftingHelper.java:531) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_482]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_482]
+[01:40:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `slime`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `nether_brick_fence`, expected `futuremc`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `painted acacia slab`, expected `mowziesmobs`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:33] [Server thread/INFO] [draconicevolution]: Loading Default Recipes...
+[01:40:33] [Server thread/INFO] [FML]: Applying holder lookups
+[01:40:33] [Server thread/INFO] [FML]: Holder lookups applied
+[01:40:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `skyroot_chest`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `aetherion_chest`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `aether_legacy` for name `skyroot_sign`, expected `aether_legacy_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:34] [Server thread/INFO] [divinerpg]: Registering custom triggers
+[01:40:34] [Server thread/INFO] [draconicevolution]: Finished Initialization
+[01:40:34] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(2, 1) invalid, 1 smaller than 2
+[01:40:34] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(4, 1) invalid, 1 smaller than 4
+[01:40:34] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(10, 1) invalid, 1 smaller than 10
+[01:40:34] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(9, 1) invalid, 1 smaller than 9
+[01:40:34] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(3, 2) invalid, 2 smaller than 3
+[01:40:34] [Server thread/INFO] [Ice And Fire]: The watcher waits on the northern wall
+[01:40:34] [Server thread/INFO] [Ice And Fire]: A daughter picks up a warrior's sword
+[01:40:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ma_seed_reprocessor`, expected `mysticalagriculture`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ma_inferium_furnace`, expected `mysticalagriculture`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ma_prudentium_furnace`, expected `mysticalagriculture`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ma_intermedium_furnace`, expected `mysticalagriculture`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ma_superium_furnace`, expected `mysticalagriculture`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ma_supremium_furnace`, expected `mysticalagriculture`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ma_ultimate_furnace`, expected `mysticalagriculture`. This could be a intended override, but in most cases indicates a broken mod.
+[01:40:34] [Server thread/INFO] [wolfarmor]: Performing server-side compatibility init for mobends...
+[01:40:34] [Server thread/INFO] [FML]: Injecting itemstacks
+[01:40:34] [Server thread/INFO] [FML]: Itemstack injection complete
+[01:40:35] [Server thread/WARN] [FML]: No types have been added to Biome blue_skies:sunset_maple_forest, types have been assigned on a best-effort guess: [PLAINS]
+[01:40:35] [Server thread/WARN] [FML]: No types have been added to Biome jeid:error_biome, types have been assigned on a best-effort guess: [PLAINS]
+[01:40:35] [Server thread/INFO] [tconstruct-TinkerSmeltery]: Started adding oredict melting recipes
+[01:40:37] [Server thread/INFO] [tconstruct-TinkerSmeltery]: Oredict melting recipes finished in 2182.370822 ms
+[01:40:37] [Server thread/INFO] [draconicevolution]: Finished PostInitialization
+[01:40:37] [Server thread/INFO] [GalacticraftCore]: Activating Tinker's Construct compatibility features.
+[01:40:37] [Server thread/INFO] [GalacticraftCore]: Activating Biomes O'Plenty compatibility feature.
+[01:40:37] [Server thread/INFO] [GalacticraftCore]: Activating WAILA compatibility features.
+[01:40:37] [Server thread/INFO] [Ice And Fire]: A brother bound to a love he must hide
+[01:40:37] [Server thread/INFO] [Ice And Fire]: The younger's armor is worn in the mind
+[01:40:37] [Server thread/INFO] [Ice And Fire]: A cold iron throne holds a boy barely grown
+[01:40:37] [Server thread/INFO] [Ice And Fire]: And now it is known
+[01:40:37] [Server thread/INFO] [Ice And Fire]: A claim to the prize, a crown laced in lies
+[01:40:37] [Server thread/INFO] [Ice And Fire]: You win or you die
+[01:40:37] [Server thread/INFO] [Ice And Fire]: Damn season 8 really sucked didn't it
+[01:40:38] [Server thread/INFO] [STDOUT]: [com.bobmowzie.mowziesmobs.server.spawn.SpawnHandler:getBiomesFromConfig:146]: Reflection failed
+[01:40:38] [Server thread/INFO] [STDOUT]: [com.bobmowzie.mowziesmobs.server.spawn.SpawnHandler:getBiomesFromConfig:146]: Reflection failed
+[01:40:38] [Server thread/INFO] [STDOUT]: [com.bobmowzie.mowziesmobs.server.spawn.SpawnHandler:getBiomesFromConfig:146]: Reflection failed
+[01:40:38] [Server thread/INFO] [STDOUT]: [com.bobmowzie.mowziesmobs.server.spawn.SpawnHandler:getBiomesFromConfig:146]: Reflection failed
+[01:40:38] [Server thread/INFO] [STDOUT]: [com.bobmowzie.mowziesmobs.server.spawn.SpawnHandler:getBiomesFromConfig:146]: Reflection failed
+[01:40:38] [Server thread/INFO] [STDOUT]: [com.bobmowzie.mowziesmobs.server.spawn.SpawnHandler:getBiomesFromConfig:146]: Reflection failed
+[01:40:38] [Server thread/INFO] [STDOUT]: [com.bobmowzie.mowziesmobs.server.spawn.SpawnHandler:getBiomesFromConfig:146]: Reflection failed
+[01:40:38] [Server thread/INFO] [STDOUT]: [com.bobmowzie.mowziesmobs.server.spawn.SpawnHandler:getBiomesFromConfig:146]: Reflection failed
+[01:40:38] [Server thread/INFO] [wolfarmor]: Performing server-side compatibility postInit for mobends...
+[01:40:38] [Server thread/INFO] [Waila]: Starting Waila...
+[01:40:38] [Server thread/INFO] [Waila]: Gathering annotated plugins...
+[01:40:38] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
+[01:40:38] [Server thread/INFO] [Waila]: Registering plugins...
+[01:40:38] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
+[01:40:38] [Server thread/INFO] [Waila]: Registering plugin at com.blakebr0.mysticalagradditions.compat.WailaDataProvider
+[01:40:38] [Server thread/INFO] [Waila]: Registering plugin at com.blakebr0.mysticalagriculture.compat.WailaDataProvider
+[01:40:38] [Server thread/INFO] [Waila]: Registering plugin at com.stevekung.moreplanets.integration.waila.WailaTileEntityProviderMP
+[01:40:38] [Server thread/INFO] [More Planets]: Waila Integration initialized
+[01:40:38] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[01:40:38] [Server thread/INFO] [Waila]: Registering plugin at com.github.alexthe666.iceandfire.compat.waila.PluginIceAndFire
+[01:40:38] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
+[01:40:38] [Server thread/INFO] [Waila]: Registering plugin at net.blay09.mods.waystones.compat.WailaProvider
+[01:40:38] [Server thread/INFO] [Waila]: Registering plugin at net.geforcemods.securitycraft.compat.hudmods.WailaDataProvider
+[01:40:38] [Server thread/INFO] [Waila]: Registering plugin at slimeknights.tconstruct.plugin.waila.WailaRegistrar
+[01:40:38] [Server thread/INFO] [Waila]: Starting Waila took 88.74 ms
+[01:40:38] [Server thread/INFO] [wolfarmor]: Performing server-side compatibility loadComplete for mobends...
+[01:40:38] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 51 mods
+[01:40:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[01:40:38] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@2528a83)
+[01:40:39] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager]: Parsing error loading built-in advancement minecraft:recipes/redstone/trapdoor
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.func_188179_a(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188177_a(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.func_192059_a(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.func_188173_a(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_193839_a(SourceFile:532) ~[rc.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192777_a(AdvancementManager.java:184) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192779_a(AdvancementManager.java:68) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.func_175643_b(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:298) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_482]
+[01:40:39] [Server thread/ERROR] [FML]: Parsing error loading built-in advancement biomesoplenty:recipes/redstone/trapdoor_from_bop_wood
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.func_188179_a(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188177_a(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.func_192059_a(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.func_188173_a(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188176_a(SourceFile:517) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188178_a(SourceFile:537) ~[rc.class:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$loadAdvancements$0(ForgeHooks.java:1381) ~[ForgeHooks.class:14.23.5.2860]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) [CraftingHelper.class:?]
+	at net.minecraftforge.common.ForgeHooks.loadAdvancements(ForgeHooks.java:1359) [ForgeHooks.class:14.23.5.2860]
+	at net.minecraftforge.common.ForgeHooks.loadAdvancements(ForgeHooks.java:1326) [ForgeHooks.class:14.23.5.2860]
+	at net.minecraft.advancements.AdvancementManager.func_192779_a(AdvancementManager.java:69) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.func_175643_b(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:298) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_482]
+[01:40:39] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 1711 advancements
+[01:40:39] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[01:40:39] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[01:40:39] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[01:40:39] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[01:40:39] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[01:40:39] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[01:40:39] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[01:40:40] [Server thread/INFO] [twilightforest]: Loaded a world with the tfEnforcedProgression game rule not defined. Defining it.
+[01:40:40] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@2528a83)
+[01:40:40] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[01:40:40] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@2528a83)
+[01:40:41] [Server thread/INFO] [FML]: Loading dimension 420 (world) (net.minecraft.server.dedicated.DedicatedServer@2528a83)
+[01:40:41] [Server thread/INFO] [FML]: Loading dimension 421 (world) (net.minecraft.server.dedicated.DedicatedServer@2528a83)
+[01:40:41] [Server thread/INFO] [FML]: Loading dimension 422 (world) (net.minecraft.server.dedicated.DedicatedServer@2528a83)
+[01:40:41] [Server thread/INFO] [FML]: Loading dimension 423 (world) (net.minecraft.server.dedicated.DedicatedServer@2528a83)
+[01:40:41] [Server thread/INFO] [FML]: Loading dimension 424 (world) (net.minecraft.server.dedicated.DedicatedServer@2528a83)
+[01:40:41] [Server thread/INFO] [FML]: Loading dimension 425 (world) (net.minecraft.server.dedicated.DedicatedServer@2528a83)
+[01:40:41] [Server thread/INFO] [FML]: Loading dimension 426 (world) (net.minecraft.server.dedicated.DedicatedServer@2528a83)
+[01:40:41] [Server thread/INFO] [FML]: Loading dimension 427 (world) (net.minecraft.server.dedicated.DedicatedServer@2528a83)
+[01:40:41] [Server thread/INFO] [FML]: Loading dimension 4 (world) (net.minecraft.server.dedicated.DedicatedServer@2528a83)
+[01:40:41] [Server thread/INFO] [FML]: Loading dimension 76 (world) (net.minecraft.server.dedicated.DedicatedServer@2528a83)
+[01:40:41] [Server thread/INFO] [FML]: Loading dimension 77 (world) (net.minecraft.server.dedicated.DedicatedServer@2528a83)
+[01:40:41] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@2528a83)
+[01:40:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[01:40:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 4%
+[01:40:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 5%
+[01:40:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 6%
+[01:40:45] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [-10, 28] in dimension 0 (overworld) while populating chunk [-10, 27], causing cascading worldgen lag.
+[01:40:45] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:40:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 8%
+[01:40:47] [Server thread/WARN] [FML]: Quark loaded a new chunk [-11, 19] in dimension 0 (overworld) while populating chunk [-9, 18], causing cascading worldgen lag.
+[01:40:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:40:47] [Server thread/WARN] [FML]: Quark loaded a new chunk [-12, 19] in dimension 0 (overworld) while populating chunk [-9, 18], causing cascading worldgen lag.
+[01:40:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:40:47] [Server thread/WARN] [FML]: Quark loaded a new chunk [-13, 19] in dimension 0 (overworld) while populating chunk [-9, 18], causing cascading worldgen lag.
+[01:40:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:40:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 10%
+[01:40:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 11%
+[01:40:50] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [-9, 28] in dimension 0 (overworld) while populating chunk [-9, 27], causing cascading worldgen lag.
+[01:40:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:40:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 12%
+[01:40:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 14%
+[01:40:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 16%
+[01:40:54] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [-7, 26] in dimension 0 (overworld) while populating chunk [-7, 25], causing cascading worldgen lag.
+[01:40:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:40:54] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [-7, 27] in dimension 0 (overworld) while populating chunk [-7, 26], causing cascading worldgen lag.
+[01:40:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:40:54] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 19%
+[01:40:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 22%
+[01:40:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 25%
+[01:40:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 27%
+[01:40:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 30%
+[01:40:59] [Server thread/WARN] [FML]: Quark loaded a new chunk [-4, 27] in dimension 0 (overworld) while populating chunk [-4, 26], causing cascading worldgen lag.
+[01:40:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:40:59] [Server thread/WARN] [FML]: Quark loaded a new chunk [-3, 27] in dimension 0 (overworld) while populating chunk [-4, 26], causing cascading worldgen lag.
+[01:40:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:40:59] [Server thread/WARN] [FML]: Quark loaded a new chunk [-2, 27] in dimension 0 (overworld) while populating chunk [-4, 26], causing cascading worldgen lag.
+[01:40:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:40:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 33%
+[01:41:00] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [-3, 26] in dimension 0 (overworld) while populating chunk [-3, 24], causing cascading worldgen lag.
+[01:41:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:41:00] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [-3, 25] in dimension 0 (overworld) while populating chunk [-3, 24], causing cascading worldgen lag.
+[01:41:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:41:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 35%
+[01:41:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 38%
+[01:41:02] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [-2, 22] in dimension 0 (overworld) while populating chunk [-2, 20], causing cascading worldgen lag.
+[01:41:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:41:02] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [-2, 21] in dimension 0 (overworld) while populating chunk [-2, 20], causing cascading worldgen lag.
+[01:41:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:41:02] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 40%
+[01:41:03] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [-1, 18] in dimension 0 (overworld) while populating chunk [-1, 17], causing cascading worldgen lag.
+[01:41:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:41:03] [Server thread/WARN] [FML]: Quark loaded a new chunk [0, 21] in dimension 0 (overworld) while populating chunk [-1, 22], causing cascading worldgen lag.
+[01:41:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:41:03] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [-1, 23] in dimension 0 (overworld) while populating chunk [-1, 22], causing cascading worldgen lag.
+[01:41:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:41:03] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [0, 22] in dimension 0 (overworld) while populating chunk [-1, 22], causing cascading worldgen lag.
+[01:41:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:41:04] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [0, 23] in dimension 0 (overworld) while populating chunk [0, 22], causing cascading worldgen lag.
+[01:41:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:41:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 43%
+[01:41:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 45%
+[01:41:05] [Server thread/WARN] [FML]: Quark loaded a new chunk [0, 25] in dimension 0 (overworld) while populating chunk [0, 24], causing cascading worldgen lag.
+[01:41:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:41:05] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [1, 25] in dimension 0 (overworld) while populating chunk [0, 25], causing cascading worldgen lag.
+[01:41:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:41:05] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [1, 24] in dimension 0 (overworld) while populating chunk [1, 25], causing cascading worldgen lag.
+[01:41:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:41:06] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [0, 27] in dimension 0 (overworld) while populating chunk [0, 26], causing cascading worldgen lag.
+[01:41:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:41:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 47%
+[01:41:06] [Server thread/WARN] [FML]: Quark loaded a new chunk [1, 3] in dimension 0 (overworld) while populating chunk [1, 4], causing cascading worldgen lag.
+[01:41:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:41:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 51%
+[01:41:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 55%
+[01:41:08] [Server thread/WARN] [FML]: Quark loaded a new chunk [3, 23] in dimension 0 (overworld) while populating chunk [2, 23], causing cascading worldgen lag.
+[01:41:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:41:09] [Server thread/WARN] [FML]: Quark loaded a new chunk [3, 22] in dimension 0 (overworld) while populating chunk [2, 23], causing cascading worldgen lag.
+[01:41:09] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:41:09] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [2, 26] in dimension 0 (overworld) while populating chunk [2, 25], causing cascading worldgen lag.
+[01:41:09] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:41:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 57%
+[01:41:10] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [3, 26] in dimension 0 (overworld) while populating chunk [3, 25], causing cascading worldgen lag.
+[01:41:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:41:10] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [3, 27] in dimension 0 (overworld) while populating chunk [3, 26], causing cascading worldgen lag.
+[01:41:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:41:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 60%
+[01:41:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 61%
+[01:41:12] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [4, 24] in dimension 0 (overworld) while populating chunk [4, 23], causing cascading worldgen lag.
+[01:41:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:41:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 64%
+[01:41:13] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 66%
+[01:41:14] [Server thread/WARN] [FML]: Quark loaded a new chunk [6, 14] in dimension 0 (overworld) while populating chunk [6, 13], causing cascading worldgen lag.
+[01:41:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:41:15] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 70%
+[01:41:16] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 72%
+[01:41:17] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 76%
+[01:41:17] [Server thread/WARN] [FML]: Quark loaded a new chunk [9, 12] in dimension 0 (overworld) while populating chunk [8, 13], causing cascading worldgen lag.
+[01:41:17] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:41:17] [Server thread/WARN] [FML]: Quark loaded a new chunk [9, 11] in dimension 0 (overworld) while populating chunk [8, 13], causing cascading worldgen lag.
+[01:41:17] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:41:17] [Server thread/WARN] [FML]: Quark loaded a new chunk [10, 12] in dimension 0 (overworld) while populating chunk [9, 11], causing cascading worldgen lag.
+[01:41:17] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:41:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 78%
+[01:41:18] [Server thread/WARN] [FML]: Quark loaded a new chunk [9, 19] in dimension 0 (overworld) while populating chunk [9, 18], causing cascading worldgen lag.
+[01:41:18] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:41:19] [Server thread/WARN] [FML]: Quark loaded a new chunk [10, 19] in dimension 0 (overworld) while populating chunk [9, 18], causing cascading worldgen lag.
+[01:41:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:41:19] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 82%
+[01:41:20] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 86%
+[01:41:20] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [10, 28] in dimension 0 (overworld) while populating chunk [10, 27], causing cascading worldgen lag.
+[01:41:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:41:21] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 89%
+[01:41:22] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 92%
+[01:41:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 94%
+[01:41:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 97%
+[01:41:24] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [13, 16] in dimension 0 (overworld) while populating chunk [13, 15], causing cascading worldgen lag.
+[01:41:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:41:24] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [13, 19] in dimension 0 (overworld) while populating chunk [13, 18], causing cascading worldgen lag.
+[01:41:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:41:24] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [13, 22] in dimension 0 (overworld) while populating chunk [13, 21], causing cascading worldgen lag.
+[01:41:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:41:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 99%
+[01:41:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (46.533s)! For help, type "help" or "?"
+[01:41:25] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -2542
+[01:41:25] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -2543
+[01:41:25] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -2544
+[01:41:25] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -2545
+[01:41:25] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -29
+[01:41:25] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -30
+[01:41:25] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -31
+[01:41:25] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -2642
+[01:41:25] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -28
+[01:41:25] [Server thread/INFO] [Quark ASM]: Transforming net.minecraft.enchantment.EnchantmentHelper
+[01:41:25] [Server thread/INFO] [Quark ASM]: Applying Transformation to method (Names [getEnchantments, func_82781_a] Descriptor (Lnet/minecraft/item/ItemStack;)Ljava/util/Map;)
+[01:41:25] [Server thread/INFO] [Quark ASM]: Located Method, patching...
+[01:41:25] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/item/ItemStack.func_77986_q ()Lnet/minecraft/nbt/NBTTagList;
+[01:41:25] [Server thread/INFO] [Quark ASM]: Patch result: true
+[01:41:26] [Server thread/INFO] [FML]: Unloading dimension 1
+[01:41:26] [Server thread/INFO] [FML]: Unloading dimension -1
+[01:41:26] [Server thread/INFO] [FML]: Unloading dimension 420
+[01:41:26] [Server thread/INFO] [FML]: Unloading dimension 421
+[01:41:26] [Server thread/INFO] [FML]: Unloading dimension 422
+[01:41:26] [Server thread/INFO] [FML]: Unloading dimension 423
+[01:41:26] [Server thread/INFO] [FML]: Unloading dimension 424
+[01:41:26] [Server thread/INFO] [FML]: Unloading dimension 425
+[01:41:26] [Server thread/INFO] [FML]: Unloading dimension 426
+[01:41:26] [Server thread/INFO] [FML]: Unloading dimension 427
+[01:41:26] [Server thread/INFO] [FML]: Unloading dimension 4
+[01:41:26] [Server thread/INFO] [FML]: Unloading dimension 76
+[01:41:26] [Server thread/INFO] [FML]: Unloading dimension 77
+[01:41:26] [Server thread/INFO] [FML]: Unloading dimension 7
+[01:41:40] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 13771ms behind, skipping 275 tick(s)
+[01:42:11] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[01:42:11] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 56 mods : wolfarmor@3.8.0,mowziesmobs@1.5.8,blue_skies@1.1.3,cucumber@1.1.3,mixinbooter@10.7,mca@6.1.0,jei@4.16.1.1013,futuremc@0.2.6,draconicevolution@2.3.28,betternether@0.1.8.6,bettercaves@1.12.2,waystones@4.1.0,mcp@9.42,controlling@3.0.10,naturescompass@1.8.5,travelersbackpack@1.0.35,conarm@1.2.5.10,forgelin@1.8.3,jeid@2.3.1,llibrary@1.7.20,iceandfire@1.9.1,additionalstructures@2.5.0,waila@1.8.26,props@2.6.3.7,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,skinlayers3d@1.2.0,crash_assistant@1.11.9,forge@14.23.5.2859,mysticalagradditions@1.3.2,twilightforest@3.11.1021,brandonscore@2.4.20,mysticalagriculture@1.7.5,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,ptrmodellib@1.0.5,biomesoplenty@7.0.1.2445,redstoneflux@2.1.1,quark@r1.6-179,mantle@1.12-1.3.3.55,gravestone@1.10.3,camera@1.0.10,securitycraft@v1.10.1,autoreglib@1.3-32,galacticraftcore@4.0.7,entityculling@@VER@,FML@8.0.99.99,aiimprovements@0.0.1.3,stevekung_lib@1.4.0,aether_legacy@1.5.4.1,byg@1.7.1,codechickenlib@3.2.3.358,divinerpg@1.7.1,mobends@1.2.2,moreplanets@2.4.1,aether_legacy_addon@1.12.2-v1.3.0
+[01:42:11] [Netty Epoll Server IO #2/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[01:42:16] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:42:16] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: antoniocrescini[/10.246.139.192:60273] logged in with entity id 8019 at (40.5, 67.0, 258.5)
+[01:42:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: antoniocrescini joined the game
+[01:42:16] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['antoniocrescini'/8019, l='world', x=40.50, y=67.00, z=258.50] connected. Sending ping
+[01:42:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: antoniocrescini has made the advancement [Ice and Fire]
+[01:42:19] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2462ms behind, skipping 49 tick(s)
+[01:42:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [antoniocrescini: Set own game mode to Creative Mode]
+[01:42:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [antoniocrescini: Set the time to 1000]
+[01:44:33] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [-6, 28] in dimension 0 (overworld) while populating chunk [-8, 28], causing cascading worldgen lag.
+[01:44:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:44:33] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [-7, 28] in dimension 0 (overworld) while populating chunk [-8, 28], causing cascading worldgen lag.
+[01:44:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:44:34] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [5, 29] in dimension 0 (overworld) while populating chunk [5, 28], causing cascading worldgen lag.
+[01:44:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:44:39] [Server thread/WARN] [FML]: Quark loaded a new chunk [-11, 9] in dimension 0 (overworld) while populating chunk [-11, 10], causing cascading worldgen lag.
+[01:44:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:44:45] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4060ms behind, skipping 81 tick(s)
+[01:44:46] [Server thread/WARN] [FML]: Quark loaded a new chunk [-11, 7] in dimension 0 (overworld) while populating chunk [-11, 8], causing cascading worldgen lag.
+[01:44:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:44:47] [Server thread/WARN] [FML]: Quark loaded a new chunk [-12, 6] in dimension 0 (overworld) while populating chunk [-11, 8], causing cascading worldgen lag.
+[01:44:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:44:47] [Server thread/WARN] [FML]: Quark loaded a new chunk [-13, 6] in dimension 0 (overworld) while populating chunk [-11, 8], causing cascading worldgen lag.
+[01:44:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:44:50] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [-14, 5] in dimension 0 (overworld) while populating chunk [-13, 5], causing cascading worldgen lag.
+[01:44:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:44:52] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[01:44:52] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[01:44:52] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[01:44:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: antoniocrescini moved too quickly! 6.435213224203579,0.0,-8.763599932018423
+[01:45:00] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2768ms behind, skipping 55 tick(s)
+[01:45:01] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[01:45:01] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 56 mods : wolfarmor@3.8.0,mowziesmobs@1.5.8,blue_skies@1.1.3,cucumber@1.1.3,mixinbooter@10.7,mca@6.1.0,jei@4.16.1.1013,futuremc@0.2.6,draconicevolution@2.3.28,betternether@0.1.8.6,bettercaves@1.12.2,waystones@4.1.0,mcp@9.42,controlling@3.0.10,naturescompass@1.8.5,travelersbackpack@1.0.35,conarm@1.2.5.10,forgelin@1.8.3,jeid@2.3.1,llibrary@1.7.20,iceandfire@1.9.1,additionalstructures@2.5.0,waila@1.8.26,props@2.6.3.7,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,skinlayers3d@1.2.0,crash_assistant@1.11.9,forge@14.23.5.2859,mysticalagradditions@1.3.2,twilightforest@3.11.1021,brandonscore@2.4.20,mysticalagriculture@1.7.5,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,ptrmodellib@1.0.5,biomesoplenty@7.0.1.2445,redstoneflux@2.1.1,quark@r1.6-179,mantle@1.12-1.3.3.55,gravestone@1.10.3,camera@1.0.10,securitycraft@v1.10.1,autoreglib@1.3-32,galacticraftcore@4.0.7,entityculling@@VER@,FML@8.0.99.99,aiimprovements@0.0.1.3,stevekung_lib@1.4.0,aether_legacy@1.5.4.1,byg@1.7.1,codechickenlib@3.2.3.358,divinerpg@1.7.1,mobends@1.2.2,moreplanets@2.4.1,aether_legacy_addon@1.12.2-v1.3.0
+[01:45:01] [Netty Epoll Server IO #3/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[01:45:03] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:45:03] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KhAleZzZ[/10.246.139.229:62915] logged in with entity id 35675 at (47.5, 64.0, 261.5)
+[01:45:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KhAleZzZ joined the game
+[01:45:03] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['KhAleZzZ'/35675, l='world', x=47.50, y=64.00, z=261.50] connected. Sending ping
+[01:45:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KhAleZzZ has made the advancement [Ice and Fire]
+[01:45:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [antoniocrescini: Set own game mode to Survival Mode]
+[01:45:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [antoniocrescini: Teleported antoniocrescini to KhAleZzZ]
+[01:45:58] [Server thread/INFO] [Quark ASM]: Transforming net.minecraft.inventory.ContainerWorkbench
+[01:45:58] [Server thread/INFO] [Quark ASM]: Applying Transformation to method (Names [transferStackInSlot, func_82846_b] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;I)Lnet/minecraft/item/ItemStack;)
+[01:45:58] [Server thread/INFO] [Quark ASM]: Located Method, patching...
+[01:45:58] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[01:45:58] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[01:45:58] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[01:45:58] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[01:45:58] [Server thread/INFO] [Quark ASM]: Patch result: true
+[01:46:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KhAleZzZ lost connection: Timed out
+[01:46:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KhAleZzZ left the game
+[01:46:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: antoniocrescini has made the advancement [Stone Age]
+[01:49:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: antoniocrescini has made the advancement [Getting an Upgrade]
+[01:50:34] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[01:50:34] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 56 mods : wolfarmor@3.8.0,mowziesmobs@1.5.8,blue_skies@1.1.3,cucumber@1.1.3,mixinbooter@10.7,mca@6.1.0,jei@4.16.1.1013,futuremc@0.2.6,draconicevolution@2.3.28,betternether@0.1.8.6,bettercaves@1.12.2,waystones@4.1.0,mcp@9.42,controlling@3.0.10,naturescompass@1.8.5,travelersbackpack@1.0.35,conarm@1.2.5.10,forgelin@1.8.3,jeid@2.3.1,llibrary@1.7.20,iceandfire@1.9.1,additionalstructures@2.5.0,waila@1.8.26,props@2.6.3.7,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,skinlayers3d@1.2.0,crash_assistant@1.11.9,forge@14.23.5.2859,mysticalagradditions@1.3.2,twilightforest@3.11.1021,brandonscore@2.4.20,mysticalagriculture@1.7.5,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,ptrmodellib@1.0.5,biomesoplenty@7.0.1.2445,redstoneflux@2.1.1,quark@r1.6-179,mantle@1.12-1.3.3.55,gravestone@1.10.3,camera@1.0.10,securitycraft@v1.10.1,autoreglib@1.3-32,galacticraftcore@4.0.7,entityculling@@VER@,FML@8.0.99.99,aiimprovements@0.0.1.3,stevekung_lib@1.4.0,aether_legacy@1.5.4.1,byg@1.7.1,codechickenlib@3.2.3.358,divinerpg@1.7.1,mobends@1.2.2,moreplanets@2.4.1,aether_legacy_addon@1.12.2-v1.3.0
+[01:50:34] [Netty Epoll Server IO #1/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[01:50:36] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:50:36] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KhAleZzZ[/10.246.139.229:54048] logged in with entity id 40785 at (54.19907271719227, 64.0, 250.68374639343983)
+[01:50:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KhAleZzZ joined the game
+[01:50:36] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['KhAleZzZ'/40785, l='world', x=54.20, y=64.00, z=250.68] connected. Sending ping
+[01:52:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: antoniocrescini has made the advancement [Monster Hunter]
+[01:53:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [antoniocrescini: Given    [Bread] * 64 to antoniocrescini]
+[01:53:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [antoniocrescini: Given    [Bread] * 64 to KhAleZzZ]
+[01:55:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [antoniocrescini: Teleported antoniocrescini to KhAleZzZ]
+[01:55:48] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [15, 13] in dimension 0 (overworld) while populating chunk [14, 13], causing cascading worldgen lag.
+[01:55:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:55:48] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [15, 12] in dimension 0 (overworld) while populating chunk [15, 13], causing cascading worldgen lag.
+[01:55:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:55:48] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [15, 14] in dimension 0 (overworld) while populating chunk [14, 15], causing cascading worldgen lag.
+[01:55:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:55:48] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [15, 15] in dimension 0 (overworld) while populating chunk [15, 14], causing cascading worldgen lag.
+[01:55:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:56:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KhAleZzZ has made the advancement [Getting an Upgrade]
+[01:57:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KhAleZzZ lost connection: Disconnected
+[01:57:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KhAleZzZ left the game
+[01:57:28] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[01:57:28] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 56 mods : wolfarmor@3.8.0,mowziesmobs@1.5.8,blue_skies@1.1.3,cucumber@1.1.3,mixinbooter@10.7,mca@6.1.0,jei@4.16.1.1013,futuremc@0.2.6,draconicevolution@2.3.28,betternether@0.1.8.6,bettercaves@1.12.2,waystones@4.1.0,mcp@9.42,controlling@3.0.10,naturescompass@1.8.5,travelersbackpack@1.0.35,conarm@1.2.5.10,forgelin@1.8.3,jeid@2.3.1,llibrary@1.7.20,iceandfire@1.9.1,additionalstructures@2.5.0,waila@1.8.26,props@2.6.3.7,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,skinlayers3d@1.2.0,crash_assistant@1.11.9,forge@14.23.5.2859,mysticalagradditions@1.3.2,twilightforest@3.11.1021,brandonscore@2.4.20,mysticalagriculture@1.7.5,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,ptrmodellib@1.0.5,biomesoplenty@7.0.1.2445,redstoneflux@2.1.1,quark@r1.6-179,mantle@1.12-1.3.3.55,gravestone@1.10.3,camera@1.0.10,securitycraft@v1.10.1,autoreglib@1.3-32,galacticraftcore@4.0.7,entityculling@@VER@,FML@8.0.99.99,aiimprovements@0.0.1.3,stevekung_lib@1.4.0,aether_legacy@1.5.4.1,byg@1.7.1,codechickenlib@3.2.3.358,divinerpg@1.7.1,mobends@1.2.2,moreplanets@2.4.1,aether_legacy_addon@1.12.2-v1.3.0
+[01:57:29] [Netty Epoll Server IO #3/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[01:57:31] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:57:31] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KhAleZzZ[/10.246.139.229:52427] logged in with entity id 44513 at (52.42747177714089, 64.0, 253.85800583920883)
+[01:57:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KhAleZzZ joined the game
+[01:57:31] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['KhAleZzZ'/44513, l='world', x=52.43, y=64.00, z=253.86] connected. Sending ping
+[01:57:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: antoniocrescini has made the advancement [Acquire Hardware]
+[01:57:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: antoniocrescini has made the advancement [Isn't It Iron Pick]
+[01:59:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Opped khalezzz
+[01:59:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KhAleZzZ: Set own game mode to Creative Mode]
+[01:59:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KhAleZzZ: Set own game mode to Survival Mode]
+[02:01:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: antoniocrescini has made the advancement [Suit Up]
+[02:02:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KhAleZzZ has made the advancement [Monster Hunter]
+[02:03:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KhAleZzZ has made the advancement [Stone Age]
+[02:08:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: KhAleZzZ moved too quickly! -7.007406191739719,0.12129684053920187,-7.349569410548867
+[02:13:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: antoniocrescini lost connection: Timed out
+[02:13:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: antoniocrescini left the game
+[02:14:12] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[02:14:12] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 56 mods : wolfarmor@3.8.0,mowziesmobs@1.5.8,blue_skies@1.1.3,cucumber@1.1.3,mixinbooter@10.7,mca@6.1.0,jei@4.16.1.1013,futuremc@0.2.6,draconicevolution@2.3.28,betternether@0.1.8.6,bettercaves@1.12.2,waystones@4.1.0,mcp@9.42,controlling@3.0.10,naturescompass@1.8.5,travelersbackpack@1.0.35,conarm@1.2.5.10,forgelin@1.8.3,jeid@2.3.1,llibrary@1.7.20,iceandfire@1.9.1,additionalstructures@2.5.0,waila@1.8.26,props@2.6.3.7,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,skinlayers3d@1.2.0,crash_assistant@1.11.9,forge@14.23.5.2859,mysticalagradditions@1.3.2,twilightforest@3.11.1021,brandonscore@2.4.20,mysticalagriculture@1.7.5,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,ptrmodellib@1.0.5,biomesoplenty@7.0.1.2445,redstoneflux@2.1.1,quark@r1.6-179,mantle@1.12-1.3.3.55,gravestone@1.10.3,camera@1.0.10,securitycraft@v1.10.1,autoreglib@1.3-32,galacticraftcore@4.0.7,entityculling@@VER@,FML@8.0.99.99,aiimprovements@0.0.1.3,stevekung_lib@1.4.0,aether_legacy@1.5.4.1,byg@1.7.1,codechickenlib@3.2.3.358,divinerpg@1.7.1,mobends@1.2.2,moreplanets@2.4.1,aether_legacy_addon@1.12.2-v1.3.0
+[02:14:12] [Netty Epoll Server IO #0/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[02:14:21] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:14:21] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: antoniocrescini[/10.246.139.192:64386] logged in with entity id 53841 at (51.88804048456879, 64.0, 258.38870401925584)
+[02:14:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: antoniocrescini joined the game
+[02:14:21] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['antoniocrescini'/53841, l='world', x=51.89, y=64.00, z=258.39] connected. Sending ping
+[02:15:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [antoniocrescini: Set the time to 1000]
+[02:16:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KhAleZzZ has made the advancement [Acquire Hardware]
+[02:16:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KhAleZzZ has made the advancement [Isn't It Iron Pick]
+[02:18:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KhAleZzZ tried to swim in lava
+[02:20:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [antoniocrescini: Teleported antoniocrescini to KhAleZzZ]
+[02:20:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [antoniocrescini: Teleported antoniocrescini to KhAleZzZ]
+[02:21:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [antoniocrescini: Teleported KhAleZzZ to antoniocrescini]
+[02:23:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [antoniocrescini: Teleported KhAleZzZ to antoniocrescini]
+[02:24:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [antoniocrescini: Teleported antoniocrescini to KhAleZzZ]
+[02:25:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [antoniocrescini: Given Fire Resistance (ID 12) * 0 to KhAleZzZ for 100 seconds]
+[02:25:52] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [0, 30] in dimension 0 (overworld) while populating chunk [0, 29], causing cascading worldgen lag.
+[02:25:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:25:52] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [1, 30] in dimension 0 (overworld) while populating chunk [1, 29], causing cascading worldgen lag.
+[02:25:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:25:52] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [2, 30] in dimension 0 (overworld) while populating chunk [2, 29], causing cascading worldgen lag.
+[02:25:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:25:54] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2185ms behind, skipping 43 tick(s)
+[02:27:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [antoniocrescini: Given Fire Resistance (ID 12) * 0 to KhAleZzZ for 60 seconds]
+[02:28:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [antoniocrescini: Given Fire Resistance (ID 12) * 0 to KhAleZzZ for 300 seconds]
+[02:29:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [antoniocrescini: Given Fire Resistance (ID 12) * 0 to antoniocrescini for 300 seconds]
+[02:29:34] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KhAleZzZ lost connection: Timed out
+[02:29:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KhAleZzZ left the game
+[02:30:21] [Netty Epoll Server IO #1/ERROR] [FML]: NetworkDispatcher exception
+io.netty.handler.timeout.ReadTimeoutException: null
+[02:30:21] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KhAleZzZ lost connection: Timed out
+[02:30:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KhAleZzZ left the game
+[02:30:48] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[02:30:48] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 56 mods : wolfarmor@3.8.0,mowziesmobs@1.5.8,blue_skies@1.1.3,cucumber@1.1.3,mixinbooter@10.7,mca@6.1.0,jei@4.16.1.1013,futuremc@0.2.6,draconicevolution@2.3.28,betternether@0.1.8.6,bettercaves@1.12.2,waystones@4.1.0,mcp@9.42,controlling@3.0.10,naturescompass@1.8.5,travelersbackpack@1.0.35,conarm@1.2.5.10,forgelin@1.8.3,jeid@2.3.1,llibrary@1.7.20,iceandfire@1.9.1,additionalstructures@2.5.0,waila@1.8.26,props@2.6.3.7,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,skinlayers3d@1.2.0,crash_assistant@1.11.9,forge@14.23.5.2859,mysticalagradditions@1.3.2,twilightforest@3.11.1021,brandonscore@2.4.20,mysticalagriculture@1.7.5,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,ptrmodellib@1.0.5,biomesoplenty@7.0.1.2445,redstoneflux@2.1.1,quark@r1.6-179,mantle@1.12-1.3.3.55,gravestone@1.10.3,camera@1.0.10,securitycraft@v1.10.1,autoreglib@1.3-32,galacticraftcore@4.0.7,entityculling@@VER@,FML@8.0.99.99,aiimprovements@0.0.1.3,stevekung_lib@1.4.0,aether_legacy@1.5.4.1,byg@1.7.1,codechickenlib@3.2.3.358,divinerpg@1.7.1,mobends@1.2.2,moreplanets@2.4.1,aether_legacy_addon@1.12.2-v1.3.0
+[02:30:48] [Netty Epoll Server IO #2/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[02:30:50] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:30:50] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KhAleZzZ[/10.246.139.229:55517] logged in with entity id 64340 at (-3.300000011920929, 7.569999836347995, 314.5624804844028)
+[02:30:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KhAleZzZ joined the game
+[02:30:50] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['KhAleZzZ'/64340, l='world', x=-3.30, y=7.57, z=314.56] connected. Sending ping
+[02:32:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [antoniocrescini: Teleported KhAleZzZ to antoniocrescini]
+[02:33:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [antoniocrescini: Given Fire Resistance (ID 12) * 0 to antoniocrescini for 300 seconds]
+[02:33:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [antoniocrescini: Given Fire Resistance (ID 12) * 0 to KhAleZzZ for 300 seconds]
+[02:34:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [antoniocrescini: Teleported KhAleZzZ to antoniocrescini]
+[02:34:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: antoniocrescini was slain by Cave Crawler
+[02:34:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [antoniocrescini: Teleported antoniocrescini to KhAleZzZ]
+[02:34:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: antoniocrescini tried to swim in lava
+[02:34:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [antoniocrescini: Teleported antoniocrescini to KhAleZzZ]
+[02:34:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: antoniocrescini tried to swim in lava
+[02:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [antoniocrescini: Teleported antoniocrescini to KhAleZzZ]
+[02:36:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [antoniocrescini: Given    [Block of Iron] * 3 to KhAleZzZ]
+[02:37:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [antoniocrescini: Set own game mode to Creative Mode]
+[02:37:45] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [14, 20] in dimension 0 (overworld) while populating chunk [14, 19], causing cascading worldgen lag.
+[02:37:45] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:37:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [antoniocrescini: Teleported KhAleZzZ to antoniocrescini]
+[02:37:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [antoniocrescini: Set own game mode to Survival Mode]
+[02:38:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [antoniocrescini: Set own game mode to Creative Mode]
+[02:39:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [antoniocrescini: Teleported antoniocrescini to 568.5, 90.0, 840.5]
+[02:39:06] [Server thread/WARN] [FML]: Quark loaded a new chunk [31, 51] in dimension 0 (overworld) while populating chunk [32, 50], causing cascading worldgen lag.
+[02:39:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:39:09] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2672ms behind, skipping 53 tick(s)
+[02:39:10] [Server thread/WARN] [FML]: Quark loaded a new chunk [32, 46] in dimension 0 (overworld) while populating chunk [31, 47], causing cascading worldgen lag.
+[02:39:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:39:10] [Server thread/WARN] [FML]: Quark loaded a new chunk [31, 46] in dimension 0 (overworld) while populating chunk [31, 47], causing cascading worldgen lag.
+[02:39:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:39:10] [Server thread/WARN] [FML]: Quark loaded a new chunk [30, 47] in dimension 0 (overworld) while populating chunk [31, 47], causing cascading worldgen lag.
+[02:39:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:39:10] [Server thread/WARN] [FML]: Quark loaded a new chunk [30, 46] in dimension 0 (overworld) while populating chunk [31, 47], causing cascading worldgen lag.
+[02:39:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:39:11] [Server thread/WARN] [FML]: Rex's Additional Structures loaded a new chunk [34, 45] in dimension 0 (overworld) while populating chunk [35, 45], causing cascading worldgen lag.
+[02:39:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:39:11] [Server thread/WARN] [FML]: LLibrary loaded a new chunk [35, 44] in dimension 0 (overworld) while populating chunk [35, 45], causing cascading worldgen lag.
+[02:39:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:39:13] [Server thread/WARN] [FML]: Quark loaded a new chunk [30, 45] in dimension 0 (overworld) while populating chunk [31, 45], causing cascading worldgen lag.
+[02:39:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:39:13] [Server thread/WARN] [FML]: Quark loaded a new chunk [29, 45] in dimension 0 (overworld) while populating chunk [31, 45], causing cascading worldgen lag.
+[02:39:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:39:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [antoniocrescini: Set own game mode to Survival Mode]
+[02:39:16] [Server thread/WARN] [FML]: Rex's Additional Structures loaded a new chunk [33, 43] in dimension 0 (overworld) while populating chunk [34, 43], causing cascading worldgen lag.
+[02:39:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:39:59] [Server thread/WARN] [FML]: Rex's Additional Structures loaded a new chunk [33, 42] in dimension 0 (overworld) while populating chunk [34, 43], causing cascading worldgen lag.
+[02:39:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:39:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: antoniocrescini lost connection: Disconnected
+[02:39:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: antoniocrescini left the game
+[02:39:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KhAleZzZ lost connection: Disconnected
+[02:39:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KhAleZzZ left the game
+[02:39:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: antoniocrescini moved too quickly! 9.026709311210311,-4.0,-1.8264383279517915
+[02:39:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: KhAleZzZ moved too quickly! -9.641195035941195,2.176759275064242,-2.5194506749541006
+[02:40:22] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[02:40:22] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 56 mods : wolfarmor@3.8.0,mowziesmobs@1.5.8,blue_skies@1.1.3,cucumber@1.1.3,mixinbooter@10.7,mca@6.1.0,jei@4.16.1.1013,futuremc@0.2.6,draconicevolution@2.3.28,betternether@0.1.8.6,bettercaves@1.12.2,waystones@4.1.0,mcp@9.42,controlling@3.0.10,naturescompass@1.8.5,travelersbackpack@1.0.35,conarm@1.2.5.10,forgelin@1.8.3,jeid@2.3.1,llibrary@1.7.20,iceandfire@1.9.1,additionalstructures@2.5.0,waila@1.8.26,props@2.6.3.7,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,skinlayers3d@1.2.0,crash_assistant@1.11.9,forge@14.23.5.2859,mysticalagradditions@1.3.2,twilightforest@3.11.1021,brandonscore@2.4.20,mysticalagriculture@1.7.5,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,ptrmodellib@1.0.5,biomesoplenty@7.0.1.2445,redstoneflux@2.1.1,quark@r1.6-179,mantle@1.12-1.3.3.55,gravestone@1.10.3,camera@1.0.10,securitycraft@v1.10.1,autoreglib@1.3-32,galacticraftcore@4.0.7,entityculling@@VER@,FML@8.0.99.99,aiimprovements@0.0.1.3,stevekung_lib@1.4.0,aether_legacy@1.5.4.1,byg@1.7.1,codechickenlib@3.2.3.358,divinerpg@1.7.1,mobends@1.2.2,moreplanets@2.4.1,aether_legacy_addon@1.12.2-v1.3.0
+[02:40:22] [Netty Epoll Server IO #3/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[02:40:24] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:40:24] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KhAleZzZ[/10.246.139.229:59563] logged in with entity id 70491 at (70.37072723937702, 63.0, 259.75689391764706)
+[02:40:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KhAleZzZ joined the game
+[02:40:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KhAleZzZ has made the advancement [Suit Up]
+[02:40:24] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['KhAleZzZ'/70491, l='world', x=70.37, y=63.00, z=259.76] connected. Sending ping
+[02:40:26] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[02:40:26] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 56 mods : wolfarmor@3.8.0,mowziesmobs@1.5.8,blue_skies@1.1.3,cucumber@1.1.3,mixinbooter@10.7,mca@6.1.0,jei@4.16.1.1013,futuremc@0.2.6,draconicevolution@2.3.28,betternether@0.1.8.6,bettercaves@1.12.2,waystones@4.1.0,mcp@9.42,controlling@3.0.10,naturescompass@1.8.5,travelersbackpack@1.0.35,conarm@1.2.5.10,forgelin@1.8.3,jeid@2.3.1,llibrary@1.7.20,iceandfire@1.9.1,additionalstructures@2.5.0,waila@1.8.26,props@2.6.3.7,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,skinlayers3d@1.2.0,crash_assistant@1.11.9,forge@14.23.5.2859,mysticalagradditions@1.3.2,twilightforest@3.11.1021,brandonscore@2.4.20,mysticalagriculture@1.7.5,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,ptrmodellib@1.0.5,biomesoplenty@7.0.1.2445,redstoneflux@2.1.1,quark@r1.6-179,mantle@1.12-1.3.3.55,gravestone@1.10.3,camera@1.0.10,securitycraft@v1.10.1,autoreglib@1.3-32,galacticraftcore@4.0.7,entityculling@@VER@,FML@8.0.99.99,aiimprovements@0.0.1.3,stevekung_lib@1.4.0,aether_legacy@1.5.4.1,byg@1.7.1,codechickenlib@3.2.3.358,divinerpg@1.7.1,mobends@1.2.2,moreplanets@2.4.1,aether_legacy_addon@1.12.2-v1.3.0
+[02:40:26] [Netty Epoll Server IO #0/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[02:40:31] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:40:31] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: antoniocrescini[/10.246.139.192:54798] logged in with entity id 70605 at (569.5867993401778, 74.0, 839.9231715369041)
+[02:40:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: antoniocrescini joined the game
+[02:40:31] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['antoniocrescini'/70605, l='world', x=569.59, y=74.00, z=839.92] connected. Sending ping
+[02:40:34] [Server thread/WARN] [FML]: Quark loaded a new chunk [45, 53] in dimension 0 (overworld) while populating chunk [44, 52], causing cascading worldgen lag.
+[02:40:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:40:34] [Server thread/WARN] [FML]: Quark loaded a new chunk [44, 53] in dimension 0 (overworld) while populating chunk [44, 52], causing cascading worldgen lag.
+[02:40:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:40:36] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2809ms behind, skipping 56 tick(s)
+[02:40:37] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [28, 60] in dimension 0 (overworld) while populating chunk [27, 59], causing cascading worldgen lag.
+[02:40:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:40:39] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [42, 41] in dimension 0 (overworld) while populating chunk [42, 42], causing cascading worldgen lag.
+[02:40:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:40:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [antoniocrescini: Teleported KhAleZzZ to antoniocrescini]
+[02:40:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KhAleZzZ was slain by antoniocrescini
+[02:40:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [antoniocrescini: Teleported KhAleZzZ to antoniocrescini]
+[02:41:11] [Server thread/INFO] [mca]: KhAleZzZ entered command [editor]
+[02:41:33] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [24, 61] in dimension 0 (overworld) while populating chunk [24, 60], causing cascading worldgen lag.
+[02:41:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:41:33] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [23, 60] in dimension 0 (overworld) while populating chunk [24, 60], causing cascading worldgen lag.
+[02:41:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:41:38] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [23, 47] in dimension 0 (overworld) while populating chunk [23, 48], causing cascading worldgen lag.
+[02:41:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:41:52] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2115ms behind, skipping 42 tick(s)
+[02:42:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KhAleZzZ was slain by antoniocrescini
+[02:42:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [antoniocrescini: Teleported KhAleZzZ to antoniocrescini]
+[02:42:34] [Server thread/WARN] [FML]: Quark loaded a new chunk [26, 40] in dimension 0 (overworld) while populating chunk [26, 41], causing cascading worldgen lag.
+[02:42:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:42:34] [Server thread/WARN] [FML]: Quark loaded a new chunk [27, 40] in dimension 0 (overworld) while populating chunk [26, 41], causing cascading worldgen lag.
+[02:42:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:42:34] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [41, 40] in dimension 0 (overworld) while populating chunk [41, 41], causing cascading worldgen lag.
+[02:42:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:42:34] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [40, 40] in dimension 0 (overworld) while populating chunk [40, 41], causing cascading worldgen lag.
+[02:42:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:42:37] [Server thread/WARN] [FML]: Quark loaded a new chunk [37, 39] in dimension 0 (overworld) while populating chunk [37, 40], causing cascading worldgen lag.
+[02:42:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:43:08] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KhAleZzZ lost connection: Disconnected
+[02:43:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KhAleZzZ left the game
+[02:44:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: antoniocrescini lost connection: Disconnected
+[02:44:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: antoniocrescini left the game
+[02:44:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[02:44:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[02:44:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[02:44:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[02:44:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[02:44:13] [Server thread/INFO] [FML]: Unloading dimension 0
+[02:44:13] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -2542
+[02:44:13] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -2543
+[02:44:13] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -2544
+[02:44:13] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -2545
+[02:44:13] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -29
+[02:44:13] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -30
+[02:44:13] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -31
+[02:44:13] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -2642
+[02:44:13] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -28
+[02:44:13] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[02:44:13] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[02:44:13] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
